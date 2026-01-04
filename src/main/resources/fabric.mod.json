@@ -10,7 +10,7 @@
 	],
 	"contact": {},
 	"license": "CC0-1.0",
-	"icon": "assets/keurdeloup/icon.png",
+	"icon": "assets/keurdeloup/FelinePresence.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
