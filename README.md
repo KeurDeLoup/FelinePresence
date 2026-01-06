@@ -2,7 +2,7 @@
 
 ![Feline Presence Showcase](src/main/resources/assets/felinepresence/FelinePresence.png)
 
-A mystical Minecraft mod by **KeurDeLoup** that introduces the **Feline Presence** enchantment, allowing you to walk among creepers with the grace and safety of a cat.
+A Minecraft mod by **KeurDeLoup** that introduces the **Feline Presence** enchantment, allowing you to walk among creepers with the grace and safety of a cat.
 
 ---
 
@@ -12,14 +12,21 @@ A mystical Minecraft mod by **KeurDeLoup** that introduces the **Feline Presence
 *   **Behavior:** Creepers will actively avoid you, fleeing just as they do from Ocelots and Cats.
 *   **Application:** Can only be applied to **Leg Armor**.
 *   **Rarity:** This is a **Treasure Enchantment**. You won't find it on an enchanting table!
-*   **Levels:** Unique (Single Level).
 
 ## 🏺 How to Find It
-This enchantment is a rare relic of the Egyptian past. To obtain it, you must venture into **Trail Ruins**.
+*Ancient civilizations discovered what caused creepers to fear cats, and learned how to distill that instinct into enchanted books.*
+
+To obtain **Feline Presence**, you must explore **Trail Ruins**, remnants of these forgotten societies.
 
 1.  Locate a **Trail Ruin** structure.
 2.  Use a Brush on **Suspicious Gravel**.
 3.  if you're lucky, you'll find a **book** already imbued with Feline Presence.
+
+### ⚠️ Important Note
+While **Feline Presence** causes creepers to avoid you, it does **not** make you completely safe.
+
+If you get too close, creepers will still defend themselves and **explode**.  
+This enchantment discourages approach, it does not prevent detonation.
 
 ---
 
