@@ -10,7 +10,7 @@ A mystical Minecraft mod by **KeurDeLoup** that introduces the **Feline Presence
 
 ### 🐱 Feline Presence Enchantment
 *   **Behavior:** Creepers will actively avoid you, fleeing just as they do from Ocelots and Cats.
-*   **Application:** Can only be applied to **Chest Armor**.
+*   **Application:** Can only be applied to **Leg Armor**.
 *   **Rarity:** This is a **Treasure Enchantment**. You won't find it on an enchanting table!
 *   **Levels:** Unique (Single Level).
 
@@ -19,7 +19,7 @@ This enchantment is a rare relic of the Egyptian past. To obtain it, you must ve
 
 1.  Locate a **Trail Ruin** structure.
 2.  Use a Brush on **Suspicious Gravel**.
-3.  Specifically, look for the **Rare Archaeology** loot pools—if you're lucky, you'll find a **book** already imbued with Feline Presence.
+3.  if you're lucky, you'll find a **book** already imbued with Feline Presence.
 
 ---
 
@@ -28,7 +28,7 @@ This enchantment is a rare relic of the Egyptian past. To obtain it, you must ve
 ### 🖥️ Client
 1. Install [Fabric Loader](https://fabricmc.net/).
 2. Download the [Fabric API](https://modrinth.com/mod/fabric-api) and place it in your `mods` folder.
-3. Place the `keurdeloup-x.x.x.jar` in your `mods` folder.
+3. Place the `felinepresence-x.x.x.jar` in your `mods` folder.
 
 ### ☁️ Server
 1. Ensure your server is running **Fabric** (Minecraft 1.21+).
