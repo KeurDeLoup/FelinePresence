@@ -1,6 +1,6 @@
 # 🐾 Feline Presence
 
-![Feline Presence Showcase](src/main/resources/assets/felinepresence/FelinePresence.png)
+![Feline Presence Showcase](src/main/resources/assets/felinepresence/FelinePresenceFinalwTxt.png)
 
 A Minecraft mod by **KeurDeLoup** that introduces the **Feline Presence** enchantment, allowing you to walk among creepers with the grace and safety of a cat.
 
